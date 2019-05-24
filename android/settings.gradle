@@ -1,0 +1,3 @@
+rootProject.name = 'fusioncharts_demo'
+
+include ':app'
